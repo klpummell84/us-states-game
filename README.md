@@ -24,4 +24,6 @@ Those two folders and the main.spec are what's needed to run the application. To
 **Other OS**:
 The file structure may be different on a mac or other OS so you may need to refer to the pyinstaller documentation for further information.
 
+**NOTE:**  After building you may need to move the .csv file and the .gif image file into the 'dist/' folder
+
 <i>Pyinstaller</i>: https://pyinstaller.org/en/stable/
